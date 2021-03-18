@@ -30,7 +30,6 @@ export default class Sidebar extends Component {
                 <li><a href="https://www.instagram.com/v4violets/" target="_blank" rel="noopener noreferrer"><i className="icon-instagram" /></a></li>
                 <li><a href="https://www.linkedin.com/in/violetpickard/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
                 <li><a href="https://github.com/vpickard707" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
-                {/* <li><a href="https://medium.com/@violet.pickard" target="_blank" rel="noopener noreferrer"><i className="icon-blogger2"></i></a></li> */}
               </ul>
             </nav>
             <div className="colorlib-footer">
